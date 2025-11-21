@@ -1,4 +1,4 @@
-# -Bike-Sales-Analysis-Dashboard
+# Bike-Sales-Analysis-Dashboard
 
 ## 1. Title-Bike-Sales-Analysis-Dashboard
 
