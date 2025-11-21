@@ -1,8 +1,10 @@
-# 1. Title-Bike-Sales-Analysis-Dashboard
+# -Bike-Sales-Analysis-Dashboard
 
-# 2. Executive Summary & Impact
+## 1. Title-Bike-Sales-Analysis-Dashboard
 
-This project presents a dynamic, interactive Excel dashboard designed to analyze customer demographics, purchase behavior, and regional bike sales performance for Bike Dekho.
+## 2. Executive Summary & Impact
+
+-This project presents a dynamic, interactive Excel dashboard designed to analyze customer demographics, purchase behavior, and regional bike sales performance for Bike Dekho.
 
 The dashboard empowers stakeholders to:
 
@@ -16,9 +18,9 @@ The dashboard empowers stakeholders to:
 
 -Make data-driven decisions on marketing & sales strategy
 
-## Impact: The dashboard transforms raw customer data into actionable insights, enabling faster decision-making and improved sales forecasting.
+### Impact: The dashboard transforms raw customer data into actionable insights, enabling faster decision-making and improved sales forecasting.
 
-# 3. Business Problem
+## 3. Business Problem
 
 Bike Dekho required a clear, consolidated view of:
 
@@ -30,13 +32,13 @@ Bike Dekho required a clear, consolidated view of:
 
 -Which regions perform best in terms of bike sales?
 
-W-hat business strategies can help improve overall customer conversion?
+-What business strategies can help improve overall customer conversion?
 
-### The goal was to create a clean, interactive dashboard that provides leadership with instant, real-time insights.
+#### The goal was to create a clean, interactive dashboard that provides leadership with instant, real-time insights.
 
-# 4. Methodology
+## 4. Methodology
 
-## 1. Data Cleaning
+### 1. Data Cleaning
 
 -Checked for missing values, duplicates, and inconsistent formats
 
@@ -44,9 +46,9 @@ W-hat business strategies can help improve overall customer conversion?
 
 -Ensured consistency in categorical fields (e.g., Gender, Marital Status)
 
-## 2. Data Processing
+### 2. Data Processing
 
-### a. Created “Age Group” Column
+#### a. Created “Age Group” Column
 
 Using formula:
 
@@ -56,13 +58,13 @@ Age ≥ 20 → Adult
 
 Else → Teenager
 
-### b. Replaced M,S with "Married","Single".
+#### b. Replaced M,S with "Married","Single".
 
-### c.Replaced M,F with "Male","Female".
+#### c.Replaced M,F with "Male","Female".
 
-### d.Removed formulas → pasted as values for stability
+#### d.Removed formulas → pasted as values for stability
 
-## 3. Data Analysis
+### 3. Data Analysis
 
 -Performed descriptive statistical analysis
 
@@ -70,7 +72,7 @@ Else → Teenager
 
 -Identified top features influencing purchase decisions
 
-## 4. Data Visualization
+### 4. Data Visualization
 
 -Designed dynamic charts and KPIs.
 
@@ -80,17 +82,17 @@ Else → Teenager
 
 -Added donut charts, bar charts, combo charts & KPIs.
 
-## 5. Final Output
+### 5. Final Output
 
 A fully interactive Excel BI Dashboard, including:
 
-# 5. Skills and Tools used:
+## 5. Skills and Tools used:
 
-### Skill: Microsoft Excel
+#### Skill: Microsoft Excel
 
 -Excel Formulas (IF, TEXT, LOOKUPs, COUNTIF)
 
-### Tools used:
+#### Tools used:
 
 -Donut Charts
 
@@ -106,9 +108,9 @@ A fully interactive Excel BI Dashboard, including:
 
 -Icons, Shapes & Themed Panels
 
-# 6. Results
+## 6. Results
 
-## Key Results
+### Key Results
 
 -Conversion Rate: ~48%
 
@@ -124,7 +126,7 @@ A fully interactive Excel BI Dashboard, including:
 
 -Commute Distance Insight: Short-distance commuters show stronger buying patterns
 
-# 7. Business Recommendations
+## 7. Business Recommendations
 
 -Target Adults (20-50 years) with tailored marketing campaigns
 
