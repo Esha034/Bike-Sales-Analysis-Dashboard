@@ -20,7 +20,7 @@ The dashboard empowers stakeholders to:
 
 ### Impact: The dashboard transforms raw customer data into actionable insights, enabling faster decision-making and improved sales forecasting.
 
-## 3. Business Problem
+## 3. Buisness Problem
 
 Bike Dekho required a clear, consolidated view of:
 
@@ -42,7 +42,7 @@ Bike Dekho required a clear, consolidated view of:
 
 -Checked for missing values, duplicates, and inconsistent formats
 
--Standardized text, date, and numeric fields
+-Standardized text, and numeric fields.
 
 -Ensured consistency in categorical fields (e.g., Gender, Marital Status)
 
@@ -90,7 +90,7 @@ A fully interactive Excel BI Dashboard, including:
 
 #### Skill: Microsoft Excel
 
--Excel Formulas (IF, TEXT, LOOKUPs, COUNTIF)
+-Excel Formulas (IF, TEXT, LOOKUPs, COUNTIF, GETPIVOTDATA),Pivot Tables, Pivot Charts.
 
 #### Tools used:
 
@@ -114,9 +114,9 @@ A fully interactive Excel BI Dashboard, including:
 
 -Conversion Rate: ~48%
 
--Gender Split: Male vs Female buyers almost equal
+-Gender Split: Male vs Female buyers almost equal(51% Male vs 49% Female)
 
--High-Buying Age Group: Adults dominate bike purchases
+-High-Buying Age Group: Adults 
 
 -Top Regions: North America & Europe lead sales
 
@@ -126,17 +126,17 @@ A fully interactive Excel BI Dashboard, including:
 
 -Commute Distance Insight: Short-distance commuters show stronger buying patterns
 
-## 7. Business Recommendations
+## 7. Buisness Recommendations
 
--Target Adults (20-50 years) with tailored marketing campaigns
+-Target Adults (20-50 years) with tailored marketing campaigns.
 
--Boost promotions in top-buying regions (North America, Europe)
+-Boost promotions in top-buying regions (North America, Europe).
 
--Create occupation-based offers for Skilled Manual & Professional workers
+-Create occupation-based offers for Skilled Manual & Professional workers.
 
--Provide premium financing schemes to attract higher-income customers
+-Provide premium financing schemes to attract higher-income customers.
 
--Personalize ads using demographics like marital status, cars owned, and children count
+-Personalize ads using demographics like marital status, cars owned, and children count.
 
 -Leverage commute-friendly bikes for customers with <5 miles travel distance
 
